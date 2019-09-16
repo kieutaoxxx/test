@@ -1,0 +1,11 @@
+Package: com.ienthach.ChangeAppleID
+Name: ChangeAppleID
+Version: 1.7
+Architecture: iphoneos-arm
+Description: Tweak Support for Xoainfo
+Author: AutoleadXXX
+Section: Utilities
+Filename: ./8.0/com.ienthach.ChangeAppleID_1.6_iphoneos-arm.deb
+Size: 2738912
+MD5sum: 843c900819f4f6863b89b47d4e4758c8
+Depends: com.rpetrich.rocketbootstrap, mobilesubstrate
